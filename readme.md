@@ -2,10 +2,6 @@
 
 > A curated and opinionated list of hacking with JavaScript resources
 
-faker
-axios
-nightmare или jsdom или cheerio
-
 ## Contents
 
 - [Reverse Engineering](#reverse-engineering)
