@@ -14,6 +14,9 @@ Dynamic analysis, static analysis, assemblers.
 
 - [frida](https://github.com/frida/frida-node)
 - [ghidra.js](https://github.com/vaguue/ghidra.js)
+
+Honestly Ghidra.js + Frida + claude code just solves everything, but the options bellow could be useful in some scenarious: 
+
 - [r2pipe](https://github.com/radareorg/radare2-r2pipe/tree/master/nodejs)
 - [unicorn.js](https://github.com/AlexAltea/unicorn.js)
 - [capstone.js](https://github.com/AlexAltea/capstone.js)
