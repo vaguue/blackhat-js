@@ -26,7 +26,9 @@ Capture & manipulate traffic, crawl internet.
 ### Web
 
 - [axios](https://github.com/axios/axios) (*Goated HTTP client*).
+
 Use it with
+
 - [socks-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/socks-proxy-agent)
 - [tough-cookie](https://github.com/salesforce/tough-cookie)
 - [faker](https://github.com/faker-js/faker)
