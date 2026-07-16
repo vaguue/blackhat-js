@@ -41,7 +41,7 @@ Use it with
 or just use [puppeteer](https://github.com/puppeteer/puppeteer) - still prefer it over the alternatives, has a bunch of plugins, easy to use
 
 ### Low level attacks
-- [over-the-wire](https://github.com/vaguue/over-the-wire)
+- [over-the-wire](https://github.com/vaguue/over-the-wire) - my man, still in dev for how many years idk
 - [bettercap](https://github.com/jsdom/jsdom) (Has JS scripting)
 - [k6](https://github.com/grafana/k6) goated shit
 
