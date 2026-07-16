@@ -32,6 +32,7 @@ Use it with
 - [faker](https://github.com/faker-js/faker)
 - [jsdom](https://github.com/jsdom/jsdom)
 - [cheerio](https://github.com/cheeriojs/cheerio)
+
 or just use [puppeteer](https://github.com/puppeteer/puppeteer) - still prefer it over the alternatives, has a bunch of plugins, easy to use
 
 ### Low level attacks
