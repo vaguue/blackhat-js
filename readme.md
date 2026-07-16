@@ -38,7 +38,7 @@ Use it with
 - [jsdom](https://github.com/jsdom/jsdom)
 - [cheerio](https://github.com/cheeriojs/cheerio)
 
-or just use [puppeteer](https://github.com/puppeteer/puppeteer) - still prefer it over the alternatives, has a bunch of plugins, easy to use
+or just use [puppeteer](https://github.com/puppeteer/puppeteer) - still prefer it over Selenium/Playwright, has a bunch of plugins, easy to use
 
 ### Low level attacks
 - [over-the-wire](https://github.com/vaguue/over-the-wire) - my man, still in dev for how many years idk
