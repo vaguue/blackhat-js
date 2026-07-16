@@ -25,14 +25,19 @@ Capture & manipulate traffic, crawl internet.
 
 ### Web
 
-- [cheerio](https://github.com/cheeriojs/cheerio)
 - [axios](https://github.com/axios/axios) (*Goated HTTP client*).
+Use it with
+- [socks-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/socks-proxy-agent)
+- [tough-cookie](https://github.com/salesforce/tough-cookie)
 - [faker](https://github.com/faker-js/faker)
 - [jsdom](https://github.com/jsdom/jsdom)
+- [cheerio](https://github.com/cheeriojs/cheerio)
+or just use [puppeteer](https://github.com/puppeteer/puppeteer) - still prefer it over the alternatives, has a bunch of plugins, easy to use
 
 ### Low level attacks
 - [over-the-wire](https://github.com/vaguue/over-the-wire)
 - [bettercap](https://github.com/jsdom/jsdom) (Has JS scripting)
+- [k6](https://github.com/grafana/k6) goated shit
 
 ## Code packing
 
