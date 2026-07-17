@@ -28,6 +28,7 @@ Capture & manipulate traffic, crawl internet.
 
 ### Web
 
+- [k6](https://github.com/grafana/k6) goated shit
 - [axios](https://github.com/axios/axios) (*Goated HTTP client*).
 
 Use it with
@@ -43,7 +44,6 @@ or just use [puppeteer](https://github.com/puppeteer/puppeteer) - still prefer i
 ### Low level attacks
 - [over-the-wire](https://github.com/vaguue/over-the-wire) - my man, still in dev for how many years idk
 - [bettercap](https://github.com/bettercap/bettercap) - has JS scripting, 5 seconds and you're already into some nasty business
-- [k6](https://github.com/grafana/k6) goated shit
 
 ## Code packing
 
